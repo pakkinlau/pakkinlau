@@ -1,4 +1,5 @@
-### Hi there 👋
+### 👋 Hi there 
+Programming naturally attracts me because "aggregate your learning and don't repeat your learning." is one of the principle I have learnt in life.
 
 ---
 ### ✨Featured Projects
