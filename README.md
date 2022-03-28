@@ -6,11 +6,11 @@ Programming naturally attracts me because ``aggregate your learning and don't re
 - Financial applications 
 
 ---
-### ✨Featured Projects
+### 🌱Featured Projects
 - elt1
 - elt2
 ---
-### Publications
+### ✨Publications
 - elt1
 - elt2
 <!--
