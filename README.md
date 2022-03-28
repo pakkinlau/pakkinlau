@@ -10,6 +10,9 @@ Programming naturally attracts me because ``aggregate your learning and don't re
 - elt1
 - elt2
 ---
+### Publications
+- elt1
+- elt2
 <!--
 **pakkinlau/pakkinlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
