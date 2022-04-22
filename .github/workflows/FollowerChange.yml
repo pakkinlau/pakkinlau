@@ -1,19 +1,21 @@
 # Dependent action: GIthubActionSendEmail
 
+# each of the yml is called "actions" or "workflow" file. 
 
-
-name: follower notifier
+name: follower-notifier
 on:
-  # notify me daily
-  schedule:
-    - cron: '0 3 * * *' # in UTC time
+  schedule: #what is this?
+    - cron: '0 3 * * *' # notify me daily, in UTC time (google: create a RE for cron statement)
 jobs:
   main:
-    runs-on: ubuntu-latest
-    steps:
-      - name: get follower change
-        id: followerChange
-        uses: Sorosliu1029/follower-change@v2
+    runs-on: ubuntu-latest # It is a runner choice. Don't need to change it. 
+    steps: # This is the keyword that group together all the steps in this job object. 
+      - name: get follower change # an optional name of a sub-workflow
+        id: followerChange # What is ID?
+        uses: Sorosliu1029/follower-change@v2   
+        # first attribute: github username. 
+        # second attribute: repository name under that user. 
+        # @N: the version of a repository
         with:
           myToken: ${{ secrets.MY_TOKEN }}
           notifyUnFollowEvent: true
@@ -21,9 +23,9 @@ jobs:
         uses: dawidd6/action-send-mail@v3
         if: steps.followerChange.outputs.shouldNotify == 'true'
         with:
-          server_address: smtp.qq.com
-          server_port: 465
-          username: ${{ secrets.MAIL_USERNAME }}
+          server_address: smtp.gmail.com # for tencent user, smtp.qq.com
+          server_port: 465 
+          username: ${{ secrets.MAIL_USERNAME }} # You need to create 
           password: ${{ secrets.MAIL_PASSWORD }}
           subject: GitHub Follower Change
           from: Follower Change Notifier
