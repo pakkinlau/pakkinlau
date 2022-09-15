@@ -4,6 +4,7 @@
 ### Fields of interest
 - Metaprogramming
 - Financial applications 
+- Machine learning with graphs
 
 ---
 ### 🌱Featured Projects
