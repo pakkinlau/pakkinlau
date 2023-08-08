@@ -8,13 +8,13 @@
 - Using machine learning products to improve item 1, 2 and 3. 
 
 ---
-### Project in-progress:
+### 🌱👯 I’m looking to collaborate on 
 - [[Git-flow-master]]: A package that streamline the process of using git.
 - [[ScrapeEase]]: A package that streamline the process of scraping dynamic or static websites.
 - 
 ---
 ### 🌱Featured Projects
-- Git-flow-master: 
+- elt1
 - elt2
 ---
 ### ✨Publications
