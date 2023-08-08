@@ -1,7 +1,7 @@
 ### 👋 Hi there 
 
 
-### Fields of interest
+### 📚Fields of interest
 - Workflow optimization
 - Knowledge base development / Knowledge mining and curation (For personal or multi-user use) 
 - Financial applications 
@@ -9,8 +9,8 @@
 
 ---
 ### 🌱👯 I’m looking to collaborate on 
-- [[Git-flow-master]]: A package that streamline the process of using git.
-- [[ScrapeEase]]: A package that streamline the process of scraping dynamic or static websites.
+- [Git-flow-master](https://github.com/pakkinlau/Git-flow-master): A package that streamline the process of using git.
+- [ScrapeEase]: A package that streamline the process of scraping dynamic or static websites.
 - 
 ---
 ### 🌱Featured Projects
