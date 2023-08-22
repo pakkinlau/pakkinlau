@@ -3,9 +3,10 @@
 
 ### 📚Fields of interest
 - Workflow optimization
-- Knowledge base development / Knowledge mining and curation (For personal or multi-user use) 
+- Knowledge base development
+- Knowledge mining and curation (For personal or multi-user use) 
 - Financial applications 
-- Using machine learning products to improve item 1, 2 and 3. 
+- Using machine learning products to improve item 1, 2, 3 and 4. 
 
 ---
 ### 🌱👯 I’m looking to collaborate on 
