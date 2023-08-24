@@ -1,27 +1,27 @@
 ### 👋 Hi there 
 
-
-### 📚Fields of interest
-- Workflow optimization
-- Knowledge base development
-- Knowledge mining and curation (For personal or multi-user use) 
-- Financial applications 
-- Using machine learning products to improve item 1, 2, 3 and 4. 
+---
+### 🌱Featured Projects
+- [Git-flow-master](https://github.com/pakkinlau/Git-flow-master): A package that streamline the process of using git.
+- elt2
 
 ---
 ### 🌱👯 I’m looking to collaborate on 
-- [Git-flow-master](https://github.com/pakkinlau/Git-flow-master): A package that streamline the process of using git.
 - [ScrapeEase]: A package that streamline the process of scraping dynamic or static websites.
-
----
-### 🌱Featured Projects
-- elt1
 - elt2
 
 ---
 ### ✨Publications
 - elt1
 - elt2
+
+---
+### 📚Fields of interest
+- Big data analytics, knowledge modeling and machine learning
+- Workflow optimization
+- Knowledge base schema design
+- Knowledge mining and curation (For personal or multi-user use) 
+- Financial applications 
 
 ---
 ### 📫 How to reach me: 
