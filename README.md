@@ -11,10 +11,9 @@ Financial applications
 
 ---
 ### 📚Fields of interest
-- Big data analytics, knowledge modeling and machine learning
-- Knowledge base schema design
+- Big data analytics and machine learning
+- Knowledge modeling and Knowledge base schema design
 - Knowledge mining and curation (For personal or multi-user use) 
-- Financial applications 
 
 ---
 ### 📫 Welcome to reach me: 
