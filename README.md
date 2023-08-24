@@ -1,30 +1,23 @@
-### 👋 Hi there 
+### 👋 Hi there
+- I am Pak Kin LAU, a Hong Kong based enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, representation, and modeling.
 
 ---
-### 🌱Featured Projects
+### 🌱Featured Packages
+Workflow optimization
 - [Git-flow-master](https://github.com/pakkinlau/Git-flow-master): A package that streamline the process of using git.
-- elt2
 
----
-### 🌱👯 I’m looking to collaborate on 
-- [ScrapeEase]: A package that streamline the process of scraping dynamic or static websites.
-- elt2
-
----
-### ✨Publications
-- elt1
-- elt2
+Financial applications
+- [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): My contribution to the library of traders communities, which garnered over 2000 stars on tradingview. 
 
 ---
 ### 📚Fields of interest
 - Big data analytics, knowledge modeling and machine learning
-- Workflow optimization
 - Knowledge base schema design
 - Knowledge mining and curation (For personal or multi-user use) 
 - Financial applications 
 
 ---
-### 📫 How to reach me: 
+### 📫 Welcome to reach me: 
 Discord ID: pakkin.lau
 
 <!--
@@ -40,4 +33,21 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+
+---
+### 🌱Featured Projects
+- elt1
+- elt2
+
+---
+### 🌱👯 I’m looking to collaborate on 
+- [ScrapeEase]: A package that streamline the process of scraping dynamic or static websites.
+- elt2
+
+---
+### ✨Publications
+- elt1
+- elt2
+
 -->
