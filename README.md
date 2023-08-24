@@ -7,7 +7,7 @@ Workflow optimization
 - [Git-flow-master](https://github.com/pakkinlau/Git-flow-master): A package that streamline the process of using git.
 
 Financial applications
-- [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): My contribution to the library of traders communities, which garnered over 2000 stars on tradingview. 
+- [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
 ---
 ### 📚Fields of interest
