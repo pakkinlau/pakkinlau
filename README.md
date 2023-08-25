@@ -2,12 +2,18 @@
 - I am Pak Kin LAU, an enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, representation, and modeling.
 
 ---
-### 🌱Featured Packages
+### 🏘Featured Packages
 Workflow optimization
 - [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands.
 
 Financial applications
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
+
+---
+🌱
+- [BigdataMath](https://github.com/pakkinlau/BigdataMath): Crafting miniature yet impactful implementations that encapsulate the profound concepts in the realm of my master's degree.
+
+
 
 ---
 ### 📚Fields of interest
