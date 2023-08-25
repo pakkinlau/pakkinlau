@@ -12,7 +12,7 @@ Financial applications
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
 ### Status: Testing stage 🦖
-- Nil
+- No packages are under testing stage. 
 
 ### Status: Development Stage 🦋
 
