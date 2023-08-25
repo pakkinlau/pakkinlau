@@ -1,5 +1,5 @@
 ### 👋 Hi there
-- I am Pak Kin LAU, a Hong Kong based enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, representation, and modeling.
+- I am Pak Kin LAU, an enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, representation, and modeling.
 
 ---
 ### 🌱Featured Packages
