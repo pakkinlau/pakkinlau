@@ -4,7 +4,7 @@
 ---
 ### 🌱Featured Packages
 Workflow optimization
-- [Git-flow-master](https://github.com/pakkinlau/Git-flow-master): A package that streamline the process of using git.
+- [gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands.
 
 Financial applications
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
