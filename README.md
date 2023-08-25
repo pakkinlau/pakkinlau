@@ -2,20 +2,24 @@
 - I am Pak Kin LAU, an enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, representation, and modeling.
 
 ---
-# 🏘Featured Packages
+## 🏘Featured Packages
+Here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
 (Classifications: Design Stage / Development Stage / Testing Stage / Deployment Stage / Maintenance  Stage)
 
-## Status: Deployment Stage 🦖
+### Status: Deployment Stage 🐉
 
 Financial applications
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
-## Status: Development Stage 🦋
+### Status: Testing stage 🦖
+
+### Status: Development Stage 🦋
 
 Workflow optimization
 - [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands.
 
-## Status: Design stage 🌱
+
+### Status: Design stage 🌱
 - [BigdataMath](https://github.com/pakkinlau/BigdataMath): Crafting miniature yet impactful implementations that encapsulate the profound concepts in the realm of my master's degree.
 
 
