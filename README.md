@@ -10,7 +10,7 @@ Financial applications
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
 ---
-🌱
+### 🌱 Working in progress
 - [BigdataMath](https://github.com/pakkinlau/BigdataMath): Crafting miniature yet impactful implementations that encapsulate the profound concepts in the realm of my master's degree.
 
 
