@@ -6,12 +6,13 @@
 Here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
 (Classifications: Design Stage / Development Stage / Testing Stage / Deployment Stage / Maintenance  Stage)
 
-### Status: Deployment Stage 🐉
+### Status: Deployment Stage 🐲
 
 Financial applications
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
 ### Status: Testing stage 🦖
+- Nil
 
 ### Status: Development Stage 🦋
 
