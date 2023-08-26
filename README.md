@@ -2,8 +2,8 @@
 - I am Pak Kin LAU, an enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, representation, and modeling.
 
 ---
-## 🏘Featured Packages
-Here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
+## 🏘Open source Packages
+While my closed source projects are not listed here, here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
 (Classifications: Design Stage / Development Stage / Testing Stage / Deployment Stage / Maintenance  Stage)
 
 ### Status: Deployment Stage 🐲
