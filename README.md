@@ -4,7 +4,6 @@
 ---
 ## 🏘Open Source Packages
 While my closed source projects are not listed here, here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
-(Classifications: Design Stage / Development Stage / Testing Stage / Deployment Stage / Maintenance  Stage)
 
 ### Status: Deployment Stage 🐲
 
