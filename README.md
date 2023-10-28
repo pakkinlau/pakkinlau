@@ -22,7 +22,9 @@ Financial applications
 - No packages are under development stage. 
 
 ### Status: Design stage 🌱
-- [BigdataMath](https://github.com/pakkinlau/BigdataMath): Crafting miniature yet impactful implementations that encapsulate the profound concepts in the realm of my master's degree.
+- [Prog-for-humanists](https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs): Designed a collection of teaching materials for senior year students in CUHK learning data engineering, database, machine learning and deployment within a 3-credit course at school. 
+
+- [BigdataMath](https://github.com/pakkinlau/BigdataMath): Crafting a collection of big data mathematicas toolkits within this package.
 
 
 
