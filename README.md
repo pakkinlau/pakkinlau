@@ -7,6 +7,11 @@ While my closed source projects are not listed here, here's a glimpse into the p
 
 ### Status: Deployment Stage 🐲
 
+Workflow optimization
+- [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands.
+
+- [youtube-chatroom-response](https://github.com/pakkinlau/youtube-chatroom-response): An asynchronous youtube chatroom response python package, that allow users to customize the patterns matched in the chatroom, and then automatically response accordingly.
+
 Financial applications
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
@@ -14,10 +19,7 @@ Financial applications
 - No packages are under testing stage. 
 
 ### Status: Development Stage 🦋
-
-Workflow optimization
-- [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands.
-
+- No packages are under development stage. 
 
 ### Status: Design stage 🌱
 - [BigdataMath](https://github.com/pakkinlau/BigdataMath): Crafting miniature yet impactful implementations that encapsulate the profound concepts in the realm of my master's degree.
