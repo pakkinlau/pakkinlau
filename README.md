@@ -27,11 +27,6 @@ Financial applications
 
 - [BigdataMath](https://github.com/pakkinlau/BigdataMath): Crafting a collection of big data mathematicas toolkits within this package.
 
-### Status: Testing stage 🦖
-- No packages are under testing stage. 
-
-### Status: Development Stage 🦋
-- No packages are under development stage. 
 
 ---
 ## 🏘Open Source Gists
@@ -53,6 +48,13 @@ Scraping
 Discord ID: pakkin.lau
 
 <!--
+### Status: Testing stage 🦖
+- No packages are under testing stage. 
+
+### Status: Design Stage 🦋
+- No packages are under development stage. 
+
+
 **pakkinlau/pakkinlau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
