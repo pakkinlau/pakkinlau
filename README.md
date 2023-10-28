@@ -12,6 +12,11 @@ Workflow optimization
 
 - [youtube-chatroom-response](https://github.com/pakkinlau/youtube-chatroom-response): An asynchronous youtube chatroom response python package, that allow users to customize the patterns matched in the chatroom, and then automatically response accordingly.
 
+Bots
+
+- [Keyword-listening-discord-bot](https://github.com/pakkinlau/Keyword-listening-discord-bot): This project represents my personal endeavor to create a Discord bot for my dedicated server. The bot is designed to monitor all messages within a specific Discord server, requiring the specification of a token and guild ID. Whenever it detects predefined commands or keywords in messages, it responds accordingly. In essence, my Discord bot serves as a helpful tool, providing instant access to information from a manual, aiding the coder members of the server with informative responses to their commands.
+
+
 Financial applications
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
