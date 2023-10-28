@@ -38,7 +38,7 @@ Automation
 
 - [downloadYT_whole.py](https://gist.github.com/pakkinlau/fd49ae6fd20fe82f66cc963c08468e78): A python script that download a video without chopping. Only videoID is needed to be provided to run the script. 
 
-- [downloadYT_clipping.py]([https://gist.github.com/pakkinlau/fd49ae6fd20fe82f66cc963c08468e78](https://gist.github.com/pakkinlau/7acda5a495a76863826cb32562e7aa95)): A python script that download a video without chopping. Only videoID is needed to be provided to run the script. 
+- [downloadYT_clipping.py](https://gist.github.com/pakkinlau/7acda5a495a76863826cb32562e7aa95): A python script that download a video without chopping. Only videoID is needed to be provided to run the script. 
 
 
 Scraping
