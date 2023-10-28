@@ -31,6 +31,11 @@ Financial applications
 ### Status: Development Stage 🦋
 - No packages are under development stage. 
 
+---
+## 🏘Open Source Gists
+
+Scraping
+- [JobsDB scraper](https://gist.github.com/pakkinlau/467d0e5a676a8759039d11a0e95f3327): A python script that scrape the job information from JOBSDB, a popular recruiter website in Hong Kong. It also tries to count mentioned skillsets and then make simple statistics for the data collected. 
 
 ---
 ### 📚Fields of interest
