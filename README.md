@@ -32,9 +32,14 @@ Financial applications
 ## 🏘Open Source Gists
 
 Automation
-- [youtube_subtitle](https://gist.github.com/pakkinlau/7383d965316fe43f3d9240e466d3af20): A python script that output youtube video substitle. Only video_id is needed to run the script. 
-
 - [gpt2md.py](https://gist.github.com/pakkinlau/e8f55eb16a6611315d2908b00f226890): A python script that convert the mathematics LaTeX format that you can copy from ChatGPT, into the LaTeX format that markdown (such as Obsidian) can display. 
+
+- [youtube_subtitle](https://gist.github.com/pakkinlau/7383d965316fe43f3d9240e466d3af20): A python script that output youtube video substitle. Only video_id is needed to run the script.
+
+- [downloadYT_whole.py](https://gist.github.com/pakkinlau/fd49ae6fd20fe82f66cc963c08468e78): A python script that download a video without chopping. Only videoID is needed to be provided to run the script. 
+
+- [downloadYT_clipping.py]([https://gist.github.com/pakkinlau/fd49ae6fd20fe82f66cc963c08468e78](https://gist.github.com/pakkinlau/7acda5a495a76863826cb32562e7aa95)): A python script that download a video without chopping. Only videoID is needed to be provided to run the script. 
+
 
 Scraping
 - [JobsDB scraper](https://gist.github.com/pakkinlau/467d0e5a676a8759039d11a0e95f3327): A python script that scrape the job information from JOBSDB, a popular recruiter website in Hong Kong. It also tries to count mentioned skillsets and then make simple statistics for the data collected. 
