@@ -36,6 +36,9 @@ Financial applications
 ---
 ## 🏘Open Source Gists
 
+Automation
+- [youtube_subtitle](https://gist.github.com/pakkinlau/7383d965316fe43f3d9240e466d3af20): A python script that output youtube video substitle. Only video_id is needed to run the script. 
+
 Scraping
 - [JobsDB scraper](https://gist.github.com/pakkinlau/467d0e5a676a8759039d11a0e95f3327): A python script that scrape the job information from JOBSDB, a popular recruiter website in Hong Kong. It also tries to count mentioned skillsets and then make simple statistics for the data collected. 
 
