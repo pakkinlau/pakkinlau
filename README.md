@@ -15,17 +15,16 @@ Workflow optimization
 Financial applications
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
+### Status: Development stage 🌱
+- [Prog-for-humanists](https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs): Designed a collection of teaching materials for senior year students in CUHK learning data engineering, database, machine learning and deployment within a 3-credit course at school. 
+
+- [BigdataMath](https://github.com/pakkinlau/BigdataMath): Crafting a collection of big data mathematicas toolkits within this package.
+
 ### Status: Testing stage 🦖
 - No packages are under testing stage. 
 
 ### Status: Development Stage 🦋
 - No packages are under development stage. 
-
-### Status: Design stage 🌱
-- [Prog-for-humanists](https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs): Designed a collection of teaching materials for senior year students in CUHK learning data engineering, database, machine learning and deployment within a 3-credit course at school. 
-
-- [BigdataMath](https://github.com/pakkinlau/BigdataMath): Crafting a collection of big data mathematicas toolkits within this package.
-
 
 
 ---
