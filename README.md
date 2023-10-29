@@ -2,7 +2,7 @@
 - I am Pak Kin LAU, an enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, representation, and modeling.
 
 ---
-## 🏘Open Source Packages
+## 🏘Open Source Repositories
 While my closed source projects are not listed here, here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
 
 ### Status: Deployment Stage 🐲
@@ -38,7 +38,7 @@ Automation
 
 - [downloadYT_whole.py](https://gist.github.com/pakkinlau/fd49ae6fd20fe82f66cc963c08468e78): A python script that download a video without chopping. Only videoID is needed to be provided to run the script. 
 
-- [downloadYT_clipping.py](https://gist.github.com/pakkinlau/7acda5a495a76863826cb32562e7aa95): A python script that download a video without chopping. Only videoID is needed to be provided to run the script. 
+- [downloadYT_chopping.py](https://gist.github.com/pakkinlau/7acda5a495a76863826cb32562e7aa95): A python script that download a video with chopping. Only videoID is needed to be provided to run the script. 
 
 
 Scraping
