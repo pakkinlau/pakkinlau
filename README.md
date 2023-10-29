@@ -6,7 +6,7 @@
 The following packages can be discovered and installed directly using PyPI and pip commands.
 
 Workflow optimization
-- [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands.
+- [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands. The actions such as batch push, pull, clone are provided. 
 
 
 ## 🏘Open Source Projects
