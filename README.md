@@ -10,11 +10,11 @@ While my closed source projects are not listed here, here's a glimpse into the p
 Workflow optimization
 - [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands.
 
-- [youtube-chatroom-response](https://github.com/pakkinlau/youtube-chatroom-response): An asynchronous youtube chatroom response python package, that allow users to customize the patterns matched in the chatroom, and then automatically response accordingly.
-
 Bots
 
 - [Keyword-listening-discord-bot](https://github.com/pakkinlau/Keyword-listening-discord-bot): This project represents my personal endeavor to create a Discord bot for my dedicated server. The bot is designed to monitor all messages within a specific Discord server, requiring the specification of a token and guild ID. Whenever it detects predefined commands or keywords in messages, it responds accordingly. In essence, my Discord bot serves as a helpful tool, providing instant access to information from a manual, aiding the coder members of the server with informative responses to their commands.
+
+- [youtube-chatroom-response](https://github.com/pakkinlau/youtube-chatroom-response): An asynchronous youtube chatroom response bot written by python, that allow users to customize the patterns matched in the chatroom, and then automatically response accordingly.
 
 
 Financial applications
