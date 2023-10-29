@@ -2,13 +2,17 @@
 - I am Pak Kin LAU, an enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, representation, and modeling.
 
 ---
-## 🏘Open Source Repositories
-While my closed source projects are not listed here, here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
-
-### Status: Deployment Stage 🐲
+## 🏘Open Source Packages 
+The following packages can be discovered and installed directly using PyPI and pip commands.
 
 Workflow optimization
 - [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands.
+
+
+## 🏘Open Source Projects
+While my closed source projects are not listed here, here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
+
+### Status: Deployment Stage 🐲
 
 Bots
 
