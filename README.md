@@ -9,7 +9,7 @@ Workflow optimization
 - [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands. The actions such as batch push, pull, clone are provided. 
 
 
-## 🏘Open Source Projects
+## 🏘Open Source Programming Projects
 While my closed source projects are not listed here, here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
 
 ### Status: Deployment Stage 🐲
@@ -26,10 +26,16 @@ Financial applications
 
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
-### Status: Development stage 🌱
-- [Prog-for-humanists](https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs): Designed a collection of teaching materials for senior year students in CUHK learning data engineering, database, machine learning and deployment within a 3-credit course at school. 
+## 🏘Open Source Programming Projects
 
-- [BigdataMath](https://github.com/pakkinlau/BigdataMath): Crafting a collection of big data mathematicas toolkits within this package.
+In the process of learning, I have discovered that I am capable of creating effective notes that can elucidate complex concepts, making them more accessible and comprehensive. As a result, I am considering writing a series of articles that will encompass a variety of topics in the field of mathematics related to big data, which I have a strong interest in.
+
+### Status: Development stage 🌱
+
+- [BigdataMath](https://github.com/pakkinlau/BigdataMath): In the process of learning, I have discovered that I am capable of creating effective notes that can elucidate complex concepts, making them more accessible and comprehensive. As a result, I am considering writing a series of articles that will encompass a variety of topics in the field of mathematics related to big data, which I have a strong interest in.
+
+- [Prog-for-humanists](https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs): That is created by me. This is a collection of teaching materials for senior year students in CUHK learning data engineering, database, machine learning and deployment within a 3-credit course at school. 
+
 
 
 ---
