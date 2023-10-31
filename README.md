@@ -26,15 +26,15 @@ Financial applications
 
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
-## 🏘Open Source Programming Projects
-
-In the process of learning, I have discovered that I am capable of creating effective notes that can elucidate complex concepts, making them more accessible and comprehensive. As a result, I am considering writing a series of articles that will encompass a variety of topics in the field of mathematics related to big data, which I have a strong interest in.
+## 🏘My Curriculum Development Work
 
 ### Status: Development stage 🌱
 
-- [BigdataMath](https://github.com/pakkinlau/BigdataMath): In the process of learning, I have discovered that I am capable of creating effective notes that can elucidate complex concepts, making them more accessible and comprehensive. As a result, I am considering writing a series of articles that will encompass a variety of topics in the field of mathematics related to big data, which I have a strong interest in.
+I have discovered a true passion for crafting articles that break down intricate concepts into easily digestible pieces. As a result, I am currently working on developing the following sets of materials for the public. Please remember to cite the source when using these materials.
 
-- [Prog-for-humanists](https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs): That is created by me. This is a collection of teaching materials for senior year students in CUHK learning data engineering, database, machine learning and deployment within a 3-credit course at school. 
+- [BigdataMath](https://github.com/pakkinlau/BigdataMath): IDuring my learning journey, I've found that I possess the ability to create effective notes that can simplify complex concepts, making them more accessible and comprehensive. Consequently, I'm planning to write a series of articles covering a variety of topics in the field of mathematics related to big data, which is an area I have a strong interest in.
+
+- [Prog-for-humanists](https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs): This collection was created by me and serves as a valuable resource for senior year students at CUHK who are studying data engineering, database management, machine learning, and deployment as part of a 3-credit course at the university.
 
 
 
