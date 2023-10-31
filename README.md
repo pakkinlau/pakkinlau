@@ -48,7 +48,9 @@ Financial applications
 
 Automation
 - [gpt2md.py](https://gist.github.com/pakkinlau/e8f55eb16a6611315d2908b00f226890): A python script that convert the mathematics LaTeX format that you can copy from ChatGPT, into the LaTeX format that markdown (such as Obsidian) can display. 
+- [gMigrate_to_public_space.ipynb]([https://gist.github.com/pakkinlau/e8f55eb16a6611315d2908b00f226890](https://gist.github.com/pakkinlau/1045344c394f578b1669c66e15abde7a)): This Python script facilitates the management of two spaces: a creation space (a large and private area for work) and a publication space (a smaller area for selected items ready for publishing). Users can specify a list of items to migrate from the creation space to the publication space, streamlining the publishing process.
 
+YouTube content download
 - [youtube_subtitle](https://gist.github.com/pakkinlau/7383d965316fe43f3d9240e466d3af20): A python script that output youtube video substitle. Only video_id is needed to run the script.
 
 - [downloadYT_whole.py](https://gist.github.com/pakkinlau/fd49ae6fd20fe82f66cc963c08468e78): A python script that download a video without chopping. Only videoID is needed to be provided to run the script. 
