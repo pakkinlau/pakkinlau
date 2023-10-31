@@ -8,6 +8,20 @@ The following packages can be discovered and installed directly using PyPI and p
 Workflow optimization
 - [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands. The actions such as batch push, pull, clone are provided. 
 
+---
+
+## 🏘My Curriculum Development Work
+
+### Status: Development stage 🌱
+
+I have discovered a true passion for crafting articles that break down intricate concepts into easily digestible pieces. As a result, I am currently working on developing the following sets of materials for the public. Please remember to cite the source when using these materials.
+
+- [BigdataMath](https://github.com/pakkinlau/BigdataMath): IDuring my learning journey, I've found that I possess the ability to create effective notes that can simplify complex concepts, making them more accessible and comprehensive. Consequently, I'm planning to write a series of articles covering a variety of topics in the field of mathematics related to big data, which is an area I have a strong interest in.
+
+- [Prog-for-humanists](https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs): This collection was created by me and serves as a valuable resource for senior year students at CUHK who are studying data engineering, database management, machine learning, and deployment as part of a 3-credit course at the university.
+
+
+---
 
 ## 🏘Open Source Programming Projects
 While my closed source projects are not listed here, here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
@@ -26,15 +40,6 @@ Financial applications
 
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
-## 🏘My Curriculum Development Work
-
-### Status: Development stage 🌱
-
-I have discovered a true passion for crafting articles that break down intricate concepts into easily digestible pieces. As a result, I am currently working on developing the following sets of materials for the public. Please remember to cite the source when using these materials.
-
-- [BigdataMath](https://github.com/pakkinlau/BigdataMath): IDuring my learning journey, I've found that I possess the ability to create effective notes that can simplify complex concepts, making them more accessible and comprehensive. Consequently, I'm planning to write a series of articles covering a variety of topics in the field of mathematics related to big data, which is an area I have a strong interest in.
-
-- [Prog-for-humanists](https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs): This collection was created by me and serves as a valuable resource for senior year students at CUHK who are studying data engineering, database management, machine learning, and deployment as part of a 3-credit course at the university.
 
 
 
