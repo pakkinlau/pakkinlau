@@ -9,7 +9,7 @@ Workflow optimization
 ### Status: Deployment Stage 🐲
 - [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands. The actions such as batch push, pull, clone are provided. 
 ### Status: Development stage 🌱
-- [Gites](https://github.com/pakkinlau/csv2gantt): Aims to provide a tool that converts csv format data file into gantt chart. 
+- [csv2gantt](https://github.com/pakkinlau/csv2gantt): Aims to provide a tool that converts csv format data file into gantt chart. 
 ---
 
 ## 🏘My Curriculum Development Work
