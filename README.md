@@ -50,6 +50,7 @@ Financial applications
 ---
 ## 🏘Open Source Gists
 
+### Status: Deployment Stage 🐲
 Format change
 - [gpt2md.py](https://gist.github.com/pakkinlau/e8f55eb16a6611315d2908b00f226890): A python script that convert the mathematics LaTeX format that you can copy from ChatGPT, into the LaTeX format that markdown (such as Obsidian) can display.
 
@@ -67,7 +68,7 @@ Video editing
 - [compress_concate.py](https://gist.github.com/pakkinlau/3963b1081869a0e4ec33db192aa8c0dd): A python script that compress and concatenate a series of videos into a single video. 
 
 Scraping
-- [JobsDB scraper](https://gist.github.com/pakkinlau/467d0e5a676a8759039d11a0e95f3327): A python script that scrape the job information from JOBSDB, a popular recruiter website in Hong Kong. It also tries to count mentioned skillsets and then make simple statistics for the data collected. 
+- [JobsDB scraper](https://gist.github.com/pakkinlau/467d0e5a676a8759039d11a0e95f3327): A python script that scrape the job information from JOBSDB, a popular recruiter website in Hong Kong. It also tries to count mentioned skillsets and then make simple statistics for the data collected.
 
 ---
 ### 📚Fields of interest
