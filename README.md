@@ -12,13 +12,15 @@ Workflow optimization
 
 ## 🏘My Curriculum Development Work
 
+### Status: Deployment Stage 🐲
+
+- [Prog-for-humanists-web]([https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs](https://pakkinlau.github.io/prog-for-humanists-web/)): This collection was created by me and serves as a valuable resource for senior year students at CUHK who are studying humanity major can grow their programming skills in the context of data engineering, database management, machine learning, natural language processing and project deployment as part of a 3-credit course at the university. The course aims to help students to have solid foundation to develop modern and impactful humanity projects in python. 
+
 ### Status: Development stage 🌱
 
 I have discovered a true passion for crafting articles that break down intricate concepts into easily digestible pieces. As a result, I am currently working on developing the following sets of materials for the public. Please remember to cite the source when using these materials.
 
 - [BigdataMath](https://github.com/pakkinlau/BigdataMath): During my learning journey, I've found that I possess the ability to create effective notes that can simplify complex concepts, making them more accessible and comprehensive. Consequently, I'm planning to write a series of articles covering a variety of topics in the field of mathematics related to big data, which is an area I have a strong interest in.
-
-- [Prog-for-humanists](https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs): This collection was created by me and serves as a valuable resource for senior year students at CUHK who are studying humanity major can grow their programming skills in the context of data engineering, database management, machine learning, and project deployment as part of a 3-credit course at the university. The course aims to help students to have solid foundation to develop modern and impactful humanity projects in python. 
 
 
 ---
