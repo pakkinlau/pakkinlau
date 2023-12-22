@@ -14,7 +14,7 @@ Workflow optimization
 
 ### Status: Deployment Stage 🐲
 
-- [Prog-for-humanists-web]([https://github.com/pakkinlau/prog-for-humanists/tree/main/colabs](https://pakkinlau.github.io/prog-for-humanists-web/)): This collection was created by me and serves as a valuable resource for senior year students at CUHK who are studying humanity major can grow their programming skills in the context of data engineering, database management, machine learning, natural language processing and project deployment as part of a 3-credit course at the university. The course aims to help students to have solid foundation to develop modern and impactful humanity projects in python. 
+- [Prog-for-humanists-web](https://pakkinlau.github.io/prog-for-humanists-web/): This collection was created by me and serves as a valuable resource for senior year students at CUHK who are studying humanity major can grow their programming skills in the context of data engineering, database management, machine learning, natural language processing and project deployment as part of a 3-credit course at the university. The course aims to help students to have solid foundation to develop modern and impactful humanity projects in python. 
 
 ### Status: Development stage 🌱
 
