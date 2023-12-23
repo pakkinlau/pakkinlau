@@ -1,5 +1,5 @@
 ### 👋 Hi there
-- I am Pak Kin LAU, an enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, knowledge representation, and knowledge modeling.
+- I am Pak Kin LAU, currently full-time NLP researcher at CUHK, and part-time MSc mathematics student at CUHK. I am also an enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, knowledge representation, and knowledge modeling.
 
 ---
 ## 🏘Open Source Packages 
