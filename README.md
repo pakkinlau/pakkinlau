@@ -51,6 +51,10 @@ Financial applications
 ## 🏘Open Source Gists
 
 ### Status: Deployment Stage 🐲
+
+Software engineering
+- [print_dir_tree.py](https://gist.github.com/pakkinlau/fe7ed183e6552999f6fd74aa258802e0): Recursively prints text that contain a tree structure representing the folders and files in a given directory. It  provides insights to LLM or human developer into the structure of a package. 
+
 Format change
 - [gpt2md.py](https://gist.github.com/pakkinlau/e8f55eb16a6611315d2908b00f226890): A python script that convert the mathematics LaTeX format that you can copy from ChatGPT, into the LaTeX format that markdown (such as Obsidian) can display.
 
