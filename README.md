@@ -27,7 +27,7 @@ Bots
 - [youtube-chatroom-response](https://github.com/pakkinlau/youtube-chatroom-response): An asynchronous youtube chatroom response bot written by python, that allow users to customize the patterns matched in the chatroom, and then automatically response accordingly.
 
 
-Financial applications
+Finance
 
 - [yahoo-finance-scraper](https://github.com/pakkinlau/yahoo-finance-scraper): This python package use the API from yfin package, and collect data from yahoo finance website. Checkout the snapshots in readme.md in this repository for more details. 
 
