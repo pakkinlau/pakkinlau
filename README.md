@@ -33,7 +33,7 @@ Finance
 
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
-Status: Development stage 🌱
+### Status: Development stage 🌱
 
 Project management
 
