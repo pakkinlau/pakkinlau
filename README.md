@@ -8,11 +8,37 @@ The following packages can be discovered and installed directly using PyPI and p
 Workflow optimization
 ### Status: Deployment Stage 🐲
 - [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands. The actions such as batch push, pull, clone are provided.
+
+---
+
+## 🏘Open Source Programming Projects
+While my closed source projects are not listed here, here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
+
+### Status: Deployment Stage 🐲
+
+Software engineering 
+
 - [Software Engineering Toolbox](https://github.com/pakkinlau/software_engineering_toolbox): Partly functional. Curate several folders of tools so that user can dignose a target directory easily during software development. 
 
-### Status: Development stage 🌱
+Bots
+
+- [Keyword-listening-discord-bot](https://github.com/pakkinlau/Keyword-listening-discord-bot): This project represents my personal endeavor to create a Discord bot for my dedicated server. The bot is designed to monitor all messages within a specific Discord server, requiring the specification of a token and guild ID. Whenever it detects predefined commands or keywords in messages, it responds accordingly. In essence, my Discord bot serves as a helpful tool, providing instant access to information from a manual, aiding the coder members of the server with informative responses to their commands.
+
+- [youtube-chatroom-response](https://github.com/pakkinlau/youtube-chatroom-response): An asynchronous youtube chatroom response bot written by python, that allow users to customize the patterns matched in the chatroom, and then automatically response accordingly.
+
+
+Financial applications
+
+- [yahoo-finance-scraper](https://github.com/pakkinlau/yahoo-finance-scraper): This python package use the API from yfin package, and collect data from yahoo finance website. Checkout the snapshots in readme.md in this repository for more details. 
+
+- [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
+
+Status: Development stage 🌱
+
+Project management
 
 - [csv2gantt](https://github.com/pakkinlau/csv2gantt): Aims to provide a tool that converts csv format data file into gantt chart. 
+
 ---
 
 ## 🏘My Curriculum Development Work
@@ -26,28 +52,6 @@ Workflow optimization
 I have discovered a true passion for crafting articles that break down intricate concepts into easily digestible pieces. As a result, I am currently working on developing the following sets of materials for the public. Please remember to cite the source when using these materials.
 
 - [BigdataMath](https://github.com/pakkinlau/BigdataMath): During my learning journey, I've found that I possess the ability to create effective notes that can simplify complex concepts, making them more accessible and comprehensive. Consequently, I'm planning to write a series of articles covering a variety of topics in the field of mathematics related to big data, which is an area I have a strong interest in.
-
-
----
-
-## 🏘Open Source Programming Projects
-While my closed source projects are not listed here, here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
-
-### Status: Deployment Stage 🐲
-
-Bots
-
-- [Keyword-listening-discord-bot](https://github.com/pakkinlau/Keyword-listening-discord-bot): This project represents my personal endeavor to create a Discord bot for my dedicated server. The bot is designed to monitor all messages within a specific Discord server, requiring the specification of a token and guild ID. Whenever it detects predefined commands or keywords in messages, it responds accordingly. In essence, my Discord bot serves as a helpful tool, providing instant access to information from a manual, aiding the coder members of the server with informative responses to their commands.
-
-- [youtube-chatroom-response](https://github.com/pakkinlau/youtube-chatroom-response): An asynchronous youtube chatroom response bot written by python, that allow users to customize the patterns matched in the chatroom, and then automatically response accordingly.
-
-
-Financial applications
-- [yahoo-finance-scraper](https://github.com/pakkinlau/yahoo-finance-scraper): This python package use the API from yfin package, and collect data from yahoo finance website. Checkout the snapshots in readme.md in this repository for more details. 
-
-- [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
-
-
 
 
 ---
