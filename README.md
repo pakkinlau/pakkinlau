@@ -7,10 +7,10 @@ The following packages can be discovered and installed directly using PyPI and p
 
 Workflow optimization
 ### Status: Deployment Stage 🐲
-- [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands. The actions such as batch push, pull, clone are provided. 
-### Status: Development stage 🌱
+- [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands. The actions such as batch push, pull, clone are provided.
+- [Software Engineering Toolbox](https://github.com/pakkinlau/software_engineering_toolbox): Partly functional. Curate several folders of tools so that user can dignose a target directory easily during software development. 
 
-- [Software Engineering Toolbox](https://github.com/pakkinlau/software_engineering_toolbox): Curate several folders of tools so that user can dignose a target directory easily during software development. 
+### Status: Development stage 🌱
 
 - [csv2gantt](https://github.com/pakkinlau/csv2gantt): Aims to provide a tool that converts csv format data file into gantt chart. 
 ---
