@@ -30,7 +30,7 @@ While my closed source projects are not listed here, here's a glimpse into the p
 
 Software engineering
 
-- [Software Engineering Toolbox](https://github.com/pakkinlau/software_engineering_toolbox): Partly functional. Curate several folders of tools so that user can dignose a target directory easily during software development.
+- [Software Engineering Toolbox](https://github.com/pakkinlau/software_engineering_toolbox): Part 1 is completed. Curate several folders of tools so that user can dignose a target directory easily during software development.
 
 Display:
 
