@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-- I am also an enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, knowledge representation, and knowledge modeling.
+- I am an enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, knowledge representation, and knowledge modeling.
 
 ---
 
