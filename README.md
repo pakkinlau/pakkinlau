@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I am Pak Kin LAU, currently a master student in mathematics, and a full-time research assistant in building big data web-application in historical research. 
+I am Pak Kin LAU, currently a master student in mathematics at CUHK, and a full-time research assistant in building big data web-application in historical research. 
 
 ### 📚Fields of (research) interest:
 
