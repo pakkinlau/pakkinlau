@@ -1,6 +1,12 @@
 ### 👋 Hi there
 
-- I am an enthusiast deeply involved in creating programming products that bring to life the conceptualization of knowledge schema, knowledge representation, and knowledge modeling.
+I am Pak Kin LAU, currently a master student in mathematics, and a full-time research assistant in building big data web-application in historical research. 
+
+### 📚Fields of (research) interest:
+
+- Graph Neural Network
+- Knowledge modeling and Knowledge base schema design
+- Knowledge mining and curation (For personal or multi-user use)
 
 ---
 
@@ -108,12 +114,6 @@ Scraping
 - [JobsDB scraper](https://gist.github.com/pakkinlau/467d0e5a676a8759039d11a0e95f3327): A python script that scrape the job information from JOBSDB, a popular recruiter website in Hong Kong. It also tries to count mentioned skillsets and then make simple statistics for the data collected.
 
 ---
-
-### 📚Fields of interest
-
-- Big data analytics and machine learning
-- Knowledge modeling and Knowledge base schema design
-- Knowledge mining and curation (For personal or multi-user use)
 
 <!--
 ### Status: Testing stage 🦖
