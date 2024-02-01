@@ -1,11 +1,11 @@
 ### 👋 Hi there
 
-I am Pak Kin LAU, currently a master student in mathematics at CUHK, and a full-time research assistant in building big data web-application in historical research. 
+I am Pak Kin LAU, currently a master student in mathematics at CUHK, and a full-time researcher at CUHK in building big data web-application in historical research. 
 
 ### 📚Fields of (research) interest:
 
 - Graph Neural Network
-- Knowledge modeling and Knowledge base schema design
+- Knowledge modeling, representation theory of knowledge, and Knowledge base schema design
 - Knowledge mining and curation (For personal or multi-user use)
 
 ---
