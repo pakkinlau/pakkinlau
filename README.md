@@ -1,6 +1,6 @@
 ### 👋 Hi there
 
-I am Pak Kin LAU, currently a master student in mathematics at CUHK, and a full-time researcher at CUHK in building big data web-application in historical research. 
+I am Pak Kin LAU, currently a master student in mathematics at CUHK, and a full-time researcher at CUHK in building big data web-application solutions for mass historical archive (image+text) research. 
 
 ### 📚Fields of (research) interest:
 
