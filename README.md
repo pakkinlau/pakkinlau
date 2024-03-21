@@ -81,6 +81,9 @@ I have discovered a true passion for crafting articles that break down intricate
 
 - [BigdataMath](https://github.com/pakkinlau/BigdataMath): During my learning journey, I've found that I possess the ability to create effective notes that can simplify complex concepts, making them more accessible and comprehensive. Consequently, I'm planning to write a series of articles covering a variety of topics in the field of mathematics related to big data, which is an area I have a strong interest in.
 
+
+### Status: Deployment Stage 🐲
+
 ---
 
 ## 🏘Open Source Gists
@@ -114,6 +117,17 @@ Scraping
 - [JobsDB scraper](https://gist.github.com/pakkinlau/467d0e5a676a8759039d11a0e95f3327): A python script that scrape the job information from JOBSDB, a popular recruiter website in Hong Kong. It also tries to count mentioned skillsets and then make simple statistics for the data collected.
 
 ---
+
+---
+## :lock: License & Usage Rights
+
+The content of these repositories is available for educational and informational purposes. While I encourage you to explore, learn from, and engage with the material, please respect the following terms:
+
+- **Access**: The repositories are publicly accessible and open to everyone.
+- **Use**: You are free to clone the repositories, run the Jupyter notebooks, and build upon the material for personal and educational use.
+- **Distribution**: Redistribution of the original or modified content is allowed, provided that you give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests I endorse you or your use.
+- **Commercial Use**: Commercial use of the content may be restricted depending on the license chosen. Please review the specific license of each repository to understand what is and isn't allowed.
+- **Contribution**: If you wish to contribute to the repositories or have any suggestions, feel free to open an issue or a pull request in the respective repository.
 
 <!--
 ### Status: Testing stage 🦖
