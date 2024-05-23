@@ -12,6 +12,8 @@ I am Pak Kin LAU, currently a master student in mathematics at CUHK, and a full-
 
 ### 📫 Welcome to reach me:
 
+Welcome to reach me by: 
+Email: pakkinlau (dot) general (at) gmail (dot) com
 Discord ID: pakkin.lau
 
 ---
