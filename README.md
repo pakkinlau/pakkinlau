@@ -36,6 +36,10 @@ While my closed source projects are not listed here, here's a glimpse into the p
 
 ### Status: Deployment Stage 🐲
 
+Large Language Models 
+
+- [poe-langchain](https://gist.github.com/pakkinlau/705ee87ef2a06d2d2d36927c010abb8c): Adapting LLM that we can access on `poe`, into langchain's `llm` eco-system.
+
 Software engineering
 
 - [Software Engineering Toolbox](https://github.com/pakkinlau/software_engineering_toolbox): Part 1 is completed. Curate several folders of tools so that user can dignose a target directory easily during software development.
