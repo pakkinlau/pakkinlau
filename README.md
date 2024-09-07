@@ -121,7 +121,7 @@ Large Language Models
 
 Software engineering
 
-- [print_dir_tree.py](https://gist.github.com/pakkinlau/fe7ed183e6552999f6fd74aa258802e0): Recursively prints text that contain a tree structure representing the folders and files in a given directory. It  provides insights to LLM or human developer into the structure of a package.
+- [dir2tree.py](https://gist.github.com/pakkinlau/add55c1cd9ce5486be0321faf26ef0ff): Recursively prints text that contain a tree structure representing the folders and files in a given directory. It  provides insights to LLM or human developer into the structure of a package.
 
 Format change
 
