@@ -1,6 +1,8 @@
-### 👋 Hi there
+### 👋 Pak Kin, LAU
 
-I am Pak Kin LAU, currently a master student in mathematics at CUHK, and a full-time researcher at CUHK in building big data solutions with Machine Learning, Large Language Models and Graph Neural Networks, for mass historical archive (image+text) research. 
+![1703358697810](image/README/prett-graph.png)
+
+I am currently a master student in mathematics at CUHK, and a full-time researcher at CUHK in building big data solutions with Machine Learning, Large Language Models and Graph Neural Networks, for mass historical archive (image+text) research. 
 
 ### 📚Fields of (research) interest:
 
