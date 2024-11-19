@@ -144,6 +144,7 @@ Video editing
 - [compress_concate.py](https://gist.github.com/pakkinlau/3963b1081869a0e4ec33db192aa8c0dd): A python script that compress and concatenate a series of videos into a single video.
 
 Scraping
+- [Home PC activity parser]([https://gist.github.com/pakkinlau/467d0e5a676a8759039d11a0e95f3327](https://gist.github.com/pakkinlau/c33acffb0383ae89062a64367288ff78)): Automatic home PC user activity parser. That automatically parse user activity into text file, for real time streaming or database for further analytics.
 
 - [JobsDB scraper](https://gist.github.com/pakkinlau/467d0e5a676a8759039d11a0e95f3327): A python script that scrape the job information from JOBSDB, a popular recruiter website in Hong Kong. It also tries to count mentioned skillsets and then make simple statistics for the data collected.
 
