@@ -20,6 +20,7 @@ I am currently a master student in mathematics at CUHK, and a full-time research
 
 - [Scene_graph_benchmark_nvidia](https://github.com/pakkinlau/scene_graph_benchmark_nvidia): This repository provides a November-2024-reworked implementation of the Scene Graph Benchmark Docker container definition, aimed at tasks like scene graph generation, object detection, and relationship detection. The current implementation is based on NVIDIA's PyTorch container with GPU acceleration, ensuring compatibility with CUDA and cuDNN.
 
+- [Envsync](https://github.com/pakkinlau/envsync): `envsync` is creating a apt-get experience for python packages, to automatically update the content of requirements.txt and synchronize the virtual environments of any Python projects with Git hooks. 
 
 - [Gites](https://github.com/pakkinlau/gites): The objective of the Gites is to replicate the user experience of employing Google Drive or OneDrive functionalities within the context of Git commands. The actions such as batch push, pull, clone are provided.
 
