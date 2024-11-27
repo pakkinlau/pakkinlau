@@ -2,7 +2,7 @@
 
 ![1703358697810](image/README/getty2%20(1).png)
 
-Welcome to make connection with me by sending message to my gmail account. 
+I would love to connect! Feel free to send me a message at my Gmail account.
 
 I am currently a master student in mathematics at CUHK, and a full-time researcher at CUHK in building big data solutions with Machine Learning, Large Language Models and Graph Neural Networks, for mass historical archive (image+text) research. 
 
