@@ -56,10 +56,6 @@ Software engineering
 
 - [Software Engineering Toolbox](https://github.com/pakkinlau/software_engineering_toolbox): Part 1 is completed. Curate several folders of tools so that user can dignose a target directory easily during software development.
 
-Display:
-
-![1703358697810](image/README/1703358697810.png)
-
 Bots
 
 - [Keyword-listening-discord-bot](https://github.com/pakkinlau/Keyword-listening-discord-bot): This project represents my personal endeavor to create a Discord bot for my dedicated server. The bot is designed to monitor all messages within a specific Discord server, requiring the specification of a token and guild ID. Whenever it detects predefined commands or keywords in messages, it responds accordingly. In essence, my Discord bot serves as a helpful tool, providing instant access to information from a manual, aiding the coder members of the server with informative responses to their commands.
@@ -68,10 +64,6 @@ Bots
 Finance
 
 - [yahoo-finance-scraper](https://github.com/pakkinlau/yahoo-finance-scraper): This python package use the API from yfin package, and collect data from yahoo finance website. Checkout the snapshots in readme.md in this repository for more details.
-
-Display:
-
-![1703358590934](image/README/1703358590934.png)
 
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
