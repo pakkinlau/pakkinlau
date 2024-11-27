@@ -2,7 +2,7 @@
 
 ![1703358697810](image/README/getty2%20(1).png)
 
-Welcome to make connection with me. 
+Welcome to make connection with me by sending message to my gmail account. 
 
 I am currently a master student in mathematics at CUHK, and a full-time researcher at CUHK in building big data solutions with Machine Learning, Large Language Models and Graph Neural Networks, for mass historical archive (image+text) research. 
 
@@ -11,14 +11,6 @@ I am currently a master student in mathematics at CUHK, and a full-time research
 - Graph Neural Network
 - Knowledge modeling, representation theory of knowledge, and Knowledge base schema design
 - Knowledge mining and curation (For personal or multi-user use)
-
----
-
-### 📫 Contact or Networking: 
-
-Welcome to reach me by: 
-- Email: pakkinlau (dot) general (at) gmail (dot) com
-- Discord ID: pakkin.lau
 
 ---
 
