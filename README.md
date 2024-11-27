@@ -52,10 +52,6 @@ While my closed source projects are not listed here, here's a glimpse into the p
 
 ### Status: Deployment Stage 🐲
 
-Software engineering
-
-- [Software Engineering Toolbox](https://github.com/pakkinlau/software_engineering_toolbox): Part 1 is completed. Curate several folders of tools so that user can dignose a target directory easily during software development.
-
 Bots
 
 - [Keyword-listening-discord-bot](https://github.com/pakkinlau/Keyword-listening-discord-bot): This project represents my personal endeavor to create a Discord bot for my dedicated server. The bot is designed to monitor all messages within a specific Discord server, requiring the specification of a token and guild ID. Whenever it detects predefined commands or keywords in messages, it responds accordingly. In essence, my Discord bot serves as a helpful tool, providing instant access to information from a manual, aiding the coder members of the server with informative responses to their commands.
@@ -68,6 +64,10 @@ Finance
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
 
 ### Status: Development stage 🌱
+
+Software engineering
+
+- [Software Engineering Toolbox](https://github.com/pakkinlau/software_engineering_toolbox): Part 1 is completed. Curate several folders of tools so that user can dignose a target directory easily during software development.
 
 Project management
 
