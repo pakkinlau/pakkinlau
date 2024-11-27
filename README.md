@@ -33,6 +33,19 @@ Welcome to reach me by:
 
 ---
 
+## 🏘My Curriculum Development Work
+
+### Status: Deployment Stage 🐲
+
+- [Prog-for-humanists-web](https://pakkinlau.github.io/prog-for-humanists-web/): This collection was created by me and serves as a valuable resource for senior year students at CUHK who are studying humanity major can grow their programming skills in the context of data engineering, database management, machine learning, natural language processing and project deployment as part of a 3-credit course at the university. The course aims to help students to have solid foundation to develop modern and impactful humanity projects in python.
+
+Display: 
+
+![1703358542877](image/README/1703358542877.png)
+
+
+---
+
 ## 🏘Open Source Programming Projects
 
 While my closed source projects are not listed here, here's a glimpse into the projects I'm currently working on, categorized based on their development stage:
@@ -68,17 +81,6 @@ Project management
 
 - [csv2gantt](https://github.com/pakkinlau/csv2gantt): Aims to provide a tool that converts csv format data file into gantt chart.
 
----
-
-## 🏘My Curriculum Development Work
-
-### Status: Deployment Stage 🐲
-
-- [Prog-for-humanists-web](https://pakkinlau.github.io/prog-for-humanists-web/): This collection was created by me and serves as a valuable resource for senior year students at CUHK who are studying humanity major can grow their programming skills in the context of data engineering, database management, machine learning, natural language processing and project deployment as part of a 3-credit course at the university. The course aims to help students to have solid foundation to develop modern and impactful humanity projects in python.
-
-Display: 
-
-![1703358542877](image/README/1703358542877.png)
 
 ---
 
