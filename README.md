@@ -84,6 +84,7 @@ Software engineering
 Format change
 
 - [gpt2md.py](https://gist.github.com/pakkinlau/e8f55eb16a6611315d2908b00f226890): A python script that convert the mathematics LaTeX format that you can copy from ChatGPT, into the LaTeX format that markdown (such as Obsidian) can display.
+- [mermaid2md.py](https://gist.github.com/pakkinlau/87007f66beb18dd26502f06cf5bf2ae8): This script automatically converts the output of LLM to syntax-error free markdown format.
 
 File migration
 
