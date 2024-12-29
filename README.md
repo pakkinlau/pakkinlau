@@ -55,6 +55,8 @@ Finance
 - [yahoo-finance-scraper](https://github.com/pakkinlau/yahoo-finance-scraper): This python package use the API from yfin package, and collect data from yahoo finance website. Checkout the snapshots in readme.md in this repository for more details.
 
 - [My tradingview profile](https://www.tradingview.com/u/BillionaireLau/#published-scripts): Check out my contributions to the library of traders community, which garnered over 2000 stars on TradingView.
+- [package_to_text](https://gist.github.com/pakkinlau/8ed27b4a90fc95b951971f8bfc365b03): generates a two-part text output:  1. ASCII Tree: A visual, indented directory structure.   2. File Contents: A flat listing of each file’s text.  The final result is automatically copied to your clipboard, making it convenient to share or paste into large language models (like ChatGPT). It also includes a rough token count estimate for LLM usage.
+
 
 ### Status: Development stage 🌱
 
