@@ -81,7 +81,7 @@ Large Language Models
 
 Software engineering
 
-- [dir2tree.py](https://gist.github.com/pakkinlau/add55c1cd9ce5486be0321faf26ef0ff): Recursively prints text that contain a tree structure representing the folders and files in a given directory. It  provides insights to LLM or human developer into the structure of a package.
+- [print_dir_structure.py](https://gist.github.com/pakkinlau/41c8b12ce2f349fcf6ae8fa4eb7c5ddf): Python script that prints a tree-like directory structure (folders + optional files) and automatically copies the output to the clipboard. It supports specifying a target directory or defaults to the current one. Use the --full flag to show files. Requires pyperclip.
 
 Format change
 
