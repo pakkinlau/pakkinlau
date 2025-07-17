@@ -6,5 +6,6 @@
 </p>
 
 <p align="center">
-  <strong>From Chaos&nbsp;to&nbsp;Coherence</strong><br>
+  <strong>When Dots Dream of Constellations</strong><br>
+  <em>Each day we shepherd wandering dots into their rightful constellations—defying entropy with algorithms that sculpt order from noise.</em>
 </p>
